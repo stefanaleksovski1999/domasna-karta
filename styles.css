@@ -1,0 +1,14 @@
+body{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.card{
+    width: 18rem;
+    padding: 2rem;
+    box-sizing: border-box;
+}
+
+.name{
+    color: tomato;
+}
